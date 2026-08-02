@@ -81,7 +81,7 @@ End-to-end architecture and development of complex data systems, software, and i
 
 ## 🚀 Featured Projects
 
-1. **Student Grants Management System (Node.js, React & MongoDB)**
+1. **[Student Grants Management System (Node.js, React & MongoDB)](https://github.com/NaamaNisim/student-grants-system):**
    * Characterized and developed a modular REST API system (Controllers, Routes, Models) supporting hundreds to thousands of active students in grant application workflows.
    * **Key Features:** 
      * Managed a NoSQL database via Mongoose with strict security layers including JWT authentication, Bcrypt password hashing, and custom middlewares for authorization and file uploads.
