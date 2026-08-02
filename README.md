@@ -97,7 +97,7 @@ End-to-end architecture and development of complex data systems, software, and i
      * Managed dependencies via Maven and deployed infrastructures in a Docker environment with JWT authentication and full Role-Based Access Control (RBAC).
    * **Tech Stack:** Java, Spring Boot, Maven, PostgreSQL, Docker, Claude AI, REST APIs, JWT, RBAC.
 
-3. **Inquiry Manager System (Advanced Core Java)**
+3. **[Inquiry Manager System (Advanced Core Java)](https://github.com/NaamaNisim/inquiry-manager):**
    * Developed an end-to-end inquiry management and corporate support center system using a Client-Server architecture based on Sockets, simulating a real-world multi-user environment.
    * **Key Features:**
      * **Concurrency & Networking:** Implemented stable bi-directional communication using Java Sockets combined with advanced Multi-threading, enabling the server to handle concurrent client requests while preventing Race Conditions.
