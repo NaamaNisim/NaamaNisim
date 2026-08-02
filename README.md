@@ -63,7 +63,7 @@ Building scalable, reliable, and user-focused software systems utilizing clean a
 ### **Independent Full-Stack & Data Developer** (April 2026 – Present)
 End-to-end architecture and development of complex data systems, software, and internal portals for business clients:
 
-* **SIP Telephony & Voice Data Pipeline:**
+* **[SIP Telephony & Voice Data Pipeline](https://github.com/NaamaNisim/call-management-system):**
   * Developed a high-performance, 24/7 communication and data ingestion system from scratch for managing inbound and outbound calls.
   * Built the backend in C# .NET Core (Clean Architecture) and optimized ORM queries against MySQL/SQL Server, including advanced routing logic for extension partitions and processing thousands of daily API calls.
   * Designed a hybrid storage mechanism for instant retrieval, alongside Cloudflare cloud-based storage for audio recordings using authorization tags as a ready BI data foundation.
@@ -71,7 +71,7 @@ End-to-end architecture and development of complex data systems, software, and i
   * Developed a dynamic Angular UI for real-time management and leveraged advanced AI capabilities (Claude) throughout the development lifecycle for architecture, code optimization, and data processing.
   * Managed full development lifecycle continuously via GitHub, alongside independent deployment and maintenance on Linux (Ubuntu) servers and HestiaCP environments.
 
-* **Employee Services Cloud App & ERP Integration (SAP Business One):**
+* **[Employee Services Cloud App & ERP Integration (SAP Business One)](https://github.com/NaamaNisim/sap-employee-portal):**
   * Developed a dedicated enterprise cloud platform (Appsmith UI) designed to streamline workflows, reduce costs, and enable flexible remote work without requiring local SAP client installations.
   * Executed a complex bi-directional integration with SAP's Service Layer (REST API) involving deep research and data mapping to bridge critical structural gaps between the database schema and API, enabling real-time extraction of thousands of records.
   * Developed a user-friendly interface enabling centralized order management and explicit profit-margin visualization.
