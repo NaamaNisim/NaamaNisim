@@ -60,7 +60,7 @@ Building scalable, reliable, and user-focused software systems utilizing clean a
 
 ## 💼 Professional Experience
 
-### **Independent Full-Stack & Data Developer** (April 2026 – Present)
+### **Independent Full-Stack & Data Developer** (March  2026 – Present)
 End-to-end architecture and development of complex data systems, software, and internal portals for business clients:
 
 * **[SIP Telephony & Voice Data Pipeline](https://github.com/NaamaNisim/call-management-system):**
